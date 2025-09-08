@@ -16,10 +16,11 @@
     O utilizador poderá efetuar o upload de 2 formas:
        
        - Arrastando o ficheiro (PDF) para a zona central da aplicação, com um tamanho limite de 50 Mbs 
-        por ficheiro;
+        por ficheiro (limite prático imposto pelo Buffer interno do Electron);
        
-       - Ou clicando na zona centra da mesma, escolhendo o ficheiro do explorador do sistema em uso, 
-       sem limite de tamanho do ficheiro, apenas do OS.
+       - Ou clicando na zona central da mesma, escolhendo o ficheiro, através do explorador do sistema
+       em uso, em que o limite do tamanho do ficheiro depende meramente da componente RAM do próprio
+       SO/OS e da capacidade de processamento do Python/Electron, não existindo assim um limite fixo.
 
 <br>
 
