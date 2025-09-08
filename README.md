@@ -14,9 +14,10 @@
 <h2>Upload</h2>
 
     O utilizador poderá efetuar o upload de 2 formas:
-       - Arrastando o ficheiro (PDF) para a zona central da aplicação, com um tamanho limite de 50 Mbs por ficheiro;
-       - Ou Clicando na zona centra da mesma, escolhendo o ficheiro do explorador do sistema em uso, sem limite de tamanho do ficheiro,
-    apenas do OS.
+       - Arrastando o ficheiro (PDF) para a zona central da aplicação, com um tamanho limite de 50 Mbs 
+        por ficheiro;
+       - Ou Clicando na zona centra da mesma, escolhendo o ficheiro do explorador do sistema em uso, 
+       sem limite de tamanho do ficheiro, apenas do OS.
 
 <br>
 
@@ -28,11 +29,13 @@
 
 <h2>Relatorios</h2>
 
-        Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e de cor Verde/Amarelo/Vermelho
-    correspondente. Os mesmos são armazenados em JSON e em txt, para maior facilidade de acesso, tendo a indicação da data em que 
-    foi feita a análise ao ficheiro, titulo e score, no cartão correspondente do mesmo.
-        Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica de null padding embutida no
-    ficheiro, o mesmo é limpo e é dada, ao utilizador, a opção de guardar uma nova versão limpa desse mesmo ficheiro.
+        Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e 
+        de cor Verde/Amarelo/Vermelho correspondente. Os mesmos são armazenados em JSON e em txt, 
+        para maior facilidade de acesso, tendo a indicação da data em que foi feita a análise ao 
+        ficheiro, titulo e score, no cartão correspondente do mesmo.
+        Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
+        de null padding embutida no ficheiro, o mesmo é limpo e é dada, ao utilizador, a opção de 
+        guardar uma nova versão limpa desse mesmo ficheiro.
 
 <br>
 
