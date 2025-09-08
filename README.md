@@ -1,13 +1,14 @@
 # <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
-<h4 align="center">| The Full Details of the Project will only be available until the Completion of the Master's Thesis |</h4>
+<p align="center">| The Full Details of the Project will only be available until the Completion of the Master's Thesis |</p>
 
-# <h1 align="center"><b>Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques</b></h1>
+---
+
+<h1 align="center">Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques</h1>
 
 ---
 
 <h3 align="center">SHRLCK</h4>
 <h3 align="center">(Strategic Heuristic Recognition & Lateralization of Cyber Knowledge) </h4>
-
 
 ##
 ## Upload
