@@ -1,4 +1,5 @@
 # <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
+<h4 align="center">| The Full Details of the Project will only be available until the Completion of the Master's Thesis |</h4>
 
 # <h1 align="center"><b>Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques</b></h1>
 
