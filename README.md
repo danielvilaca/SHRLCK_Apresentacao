@@ -9,18 +9,19 @@
 <h3 align="center">(Strategic Heuristic Recognition & Lateralization of Cyber Knowledge) </h4>
 
 
----
+##
+## Upload
 
-<h2>Upload</h2>
-
-    O utilizador poderá efetuar o upload de 2 formas:
+```
+O Utilizador poderá efetuar o Upload de 2 formas:
        
-       - Arrastando o ficheiro (PDF) para a zona central da aplicação, com um tamanho limite de 50 Mbs 
-        por ficheiro (limite prático imposto pelo Buffer interno do Electron);
+    - Arrastando o ficheiro (PDF) para a zona central da aplicação, com um tamanho limite de 50 Mbs 
+    por ficheiro (limite prático imposto pelo Buffer interno do Electron);
        
-       - Ou clicando na zona central da mesma, escolhendo o ficheiro, através do explorador do sistema
-       em uso, em que o limite do tamanho do ficheiro depende meramente da componente RAM do próprio
-       SO/OS e da capacidade de processamento do Python/Electron, não existindo assim um limite fixo.
+    - Clicando na zona central da mesma, escolhendo o ficheiro, através do explorador do sistema
+    em uso, em que o limite do tamanho do ficheiro depende meramente da componente RAM do próprio
+    SO/OS e da capacidade de processamento do Python/Electron, não existindo assim um limite fixo.
+```
 
 <br>
 
@@ -28,18 +29,20 @@
   <img src = "https://github.com/user-attachments/assets/90717a1b-afb7-40ee-b791-1c98854183fb">
 </div>
 
----
 
-<h2>Relatorios</h2>
+##
+## Relatorios
 
-        Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e 
-        de cor Verde/Amarelo/Vermelho correspondente. Os mesmos são armazenados em JSON e em TXT, 
-        para maior facilidade de acesso, tendo a indicação da data em que foi feita a análise ao 
-        ficheiro, titulo e score, no cartão correspondente do mesmo.
+```
+- Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e 
+de cor Verde/Amarelo/Vermelho correspondente. Os mesmos são armazenados em JSON e em TXT, 
+para maior facilidade de acesso, tendo a indicação da data em que foi feita a análise ao 
+ ficheiro, titulo e score, no cartão correspondente do mesmo.
         
-        Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
-        de null padding embutida no ficheiro, o mesmo é limpo e é dada, ao utilizador, a opção de 
-        guardar uma nova versão limpa desse mesmo ficheiro.
+- Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
+de null padding embutida no ficheiro, o mesmo é limpo e é dada, ao utilizador, a opção de 
+guardar uma nova versão limpa desse mesmo ficheiro.
+```
 
 <br>
 
@@ -47,17 +50,19 @@
   <img src = "https://github.com/user-attachments/assets/c10e14e2-5a14-4c46-a792-17f7af68b666">
 </div>
 
----
 
-<h2 align="center">Log Técnico</h2>
+##
+## Log Técnico
 
----
+```
+O Log Técnico representa, em detalhe, informação que possa ser relevante para uma análise mais 
+aprofundada do ficheiro.
 
-    O Log Técnico representa, em detalhe, informação que possa ser relevante para uma análise mais 
-    aprofundada do ficheiro. Inclui Metadados do mesmo, keywords verificadas, nível de entropia 
-    aplicada, posição do objeto malicioso, contagem de EOFs, entre outros, onde apesar da aplicação 
-    ser de intuito simplista, permite também uma análise mais detalhada por parte de um especialista.
-
+Inclui Metadados entre os quais:
+- Keywords verificadas, nível de entropia aplicada, posição do objeto malicioso, contagem de EOFs,
+entre outros, onde apesar da aplicação ser de intuito simplista, permite também uma análise mais
+detalhada por parte de um especialista.
+```
 
 <br>
 
@@ -65,16 +70,15 @@
   <img src = "https://github.com/user-attachments/assets/615d3339-125b-400c-8e2d-81c3940a48ed">
 </div>
 
----
 
-<h2 align="center">Api Externa</h2>
+##
+## Api Externa
 
----
-
-    O utilizador terá como opção analisar o documento (via Hash/Assinatura) sem que os dados do mesmo 
-    sejam expostos, podendo complementar a análise heuristica com uma análise dinâmica com acesso à 
-    base de dados da VirusTotal com +60 AV engines. 
-
+```
+- O utilizador terá como opção analisar o documento (via Hash/Assinatura) sem que os dados do mesmo 
+sejam expostos, podendo complementar a análise heuristica com uma análise dinâmica com acesso à 
+base de dados da VirusTotal com +60 AV engines. 
+```
 
 <br>
 
