@@ -41,7 +41,7 @@ para maior facilidade de acesso, tendo a indicação da data em que foi feita a 
  ficheiro, titulo e score, no cartão correspondente do mesmo.
         
 - Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
-de null padding embutida no ficheiro, o mesmo é limpo e é dada, ao utilizador, a opção de 
+de null padding embutida no ficheiro, o mesmo é limpo e é dada a opção de 
 guardar uma nova versão limpa desse mesmo ficheiro.
 ```
 
