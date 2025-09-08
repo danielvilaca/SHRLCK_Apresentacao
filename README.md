@@ -72,7 +72,7 @@
 
     O utilizador terá como opção analisar o documento (via Hash/Assinatura) sem que os dados do mesmo 
     sejam expostos, podendo complementar a análise heuristica com uma análise dinâmica com acesso à 
-    base de dados da VirusTotal e cerca de 60+ AV engines. 
+    base de dados da VirusTotal com +60 AV engines. 
 
 
 <br>
