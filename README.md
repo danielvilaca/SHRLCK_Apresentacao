@@ -1,5 +1,5 @@
 # <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
-<p align="center">| The Full Details of the Project will only be available until the Completion of the Master's Thesis |</p>
+<p align="center">| The Full Details of the Project will only be available until the completion of the Master's Thesis |</p>
 
 ---
 
