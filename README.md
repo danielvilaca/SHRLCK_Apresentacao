@@ -14,7 +14,6 @@
 ## Upload
 
 <div align="center">
-  <!-- <img src = "https://github.com/user-attachments/assets/90717a1b-afb7-40ee-b791-1c98854183fb"> <-->
   <img src = "Images/1-upload.gif">
 </div>
 
@@ -34,26 +33,31 @@ O Utilizador poderá efetuar o Upload de 2 formas:
 ##
 ## Relatorios
 
+<div align="center">
+  <img src = "Images/2-relatorios.gif">
+</div>
+
+<br>
+
 ```
-- Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e 
+Os relatórios dos ficheiros analisados são visualizáveis com indicação de LOW/MEDIUM/HIGH e 
 de cor Verde/Amarelo/Vermelho correspondente. Os mesmos são armazenados em JSON e em TXT, 
 para maior facilidade de acesso, tendo a indicação da data em que foi feita a análise ao 
  ficheiro, titulo e score, no cartão correspondente do mesmo.
         
-- Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
+Além das opções de "Ver Detalhes" e "Análise VirusTotal", caso seja encontrada alguma técnica 
 de null padding embutida no ficheiro, o mesmo é limpo e é dada a opção de 
 guardar uma nova versão limpa desse mesmo ficheiro.
 ```
 
-<br>
-
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/c10e14e2-5a14-4c46-a792-17f7af68b666">
-</div>
-
-
 ##
 ## Log Técnico
+
+<div align="center">
+  <img src = "Images/3-logtecnico.gif">
+</div>
+
+<br>
 
 ```
 O Log Técnico representa, em detalhe, informação que possa ser relevante para uma análise mais 
@@ -65,26 +69,26 @@ entre outros, onde apesar da aplicação ser de intuito simplista, permite tamb�
 detalhada por parte de um especialista.
 ```
 
-<br>
-
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/615d3339-125b-400c-8e2d-81c3940a48ed">
-</div>
-
-
 ##
 ## Api Externa
 
+<div align="center">
+  <img src = "Images/4-vt.gif">
+</div>
+
+<br>
+
 ```
-- O utilizador terá como opção analisar o documento (via Hash/Assinatura) sem que os dados do mesmo 
+O utilizador terá como opção analisar o documento (via Hash/Assinatura) sem que os dados do mesmo 
 sejam expostos, podendo complementar a análise heuristica com uma análise dinâmica com acesso à 
 base de dados da VirusTotal com +60 AV engines. 
 ```
 
-<br>
+##
+## Futuramente
 
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/fce51118-9644-4a32-abcb-dab06ff4d959">
-</div>
-
-
+- Aplicar Machine Learning (ANN/CNN) para uma análise aos PE's (Programmable Executables);
+- Desenvolver heuristicas mais robustas com integração de Yara-L, etc para implementação conjunta em SIEMs/EDRs;
+- Aumentar capacidade para outros ficheiros DOS (Word / Excel / Etc);
+- Viabilizar novas formas de deteção para restantes técnicas (Base64 / Etc)
+- Pacote de Setup/Build com Idiomas (EN / FR / ESP / DE / RU)
