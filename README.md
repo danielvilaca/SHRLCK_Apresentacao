@@ -13,6 +13,13 @@
 ##
 ## Upload
 
+<div align="center">
+  <!-- <img src = "https://github.com/user-attachments/assets/90717a1b-afb7-40ee-b791-1c98854183fb"> <-->
+  <img src = "Images/1-upload.gif">
+</div>
+
+<br>
+
 ```
 O Utilizador poderá efetuar o Upload de 2 formas:
        
@@ -23,13 +30,6 @@ O Utilizador poderá efetuar o Upload de 2 formas:
     em uso, em que o limite do tamanho do ficheiro depende meramente da componente RAM do próprio
     SO/OS e da capacidade de processamento do Python/Electron, não existindo assim um limite fixo.
 ```
-
-<br>
-
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/90717a1b-afb7-40ee-b791-1c98854183fb">
-</div>
-
 
 ##
 ## Relatorios
